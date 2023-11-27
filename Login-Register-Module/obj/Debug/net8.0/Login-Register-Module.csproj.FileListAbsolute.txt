@@ -1,0 +1,16 @@
+/home/gordon/Desktop/Projects/dotnet/Login-Register-Module/Login-Register-Module/bin/Debug/net8.0/Login-Register-Module
+/home/gordon/Desktop/Projects/dotnet/Login-Register-Module/Login-Register-Module/bin/Debug/net8.0/Login-Register-Module.deps.json
+/home/gordon/Desktop/Projects/dotnet/Login-Register-Module/Login-Register-Module/bin/Debug/net8.0/Login-Register-Module.runtimeconfig.json
+/home/gordon/Desktop/Projects/dotnet/Login-Register-Module/Login-Register-Module/bin/Debug/net8.0/Login-Register-Module.dll
+/home/gordon/Desktop/Projects/dotnet/Login-Register-Module/Login-Register-Module/bin/Debug/net8.0/Login-Register-Module.pdb
+/home/gordon/Desktop/Projects/dotnet/Login-Register-Module/Login-Register-Module/obj/Debug/net8.0/Login-Register-Module.GeneratedMSBuildEditorConfig.editorconfig
+/home/gordon/Desktop/Projects/dotnet/Login-Register-Module/Login-Register-Module/obj/Debug/net8.0/Login-Register-Module.AssemblyInfoInputs.cache
+/home/gordon/Desktop/Projects/dotnet/Login-Register-Module/Login-Register-Module/obj/Debug/net8.0/Login-Register-Module.AssemblyInfo.cs
+/home/gordon/Desktop/Projects/dotnet/Login-Register-Module/Login-Register-Module/obj/Debug/net8.0/Login-Register-Module.csproj.CoreCompileInputs.cache
+/home/gordon/Desktop/Projects/dotnet/Login-Register-Module/Login-Register-Module/obj/Debug/net8.0/Login-Register-Module.sourcelink.json
+/home/gordon/Desktop/Projects/dotnet/Login-Register-Module/Login-Register-Module/obj/Debug/net8.0/Login-Register-Module.dll
+/home/gordon/Desktop/Projects/dotnet/Login-Register-Module/Login-Register-Module/obj/Debug/net8.0/refint/Login-Register-Module.dll
+/home/gordon/Desktop/Projects/dotnet/Login-Register-Module/Login-Register-Module/obj/Debug/net8.0/Login-Register-Module.pdb
+/home/gordon/Desktop/Projects/dotnet/Login-Register-Module/Login-Register-Module/obj/Debug/net8.0/Login-Register-Module.genruntimeconfig.cache
+/home/gordon/Desktop/Projects/dotnet/Login-Register-Module/Login-Register-Module/obj/Debug/net8.0/ref/Login-Register-Module.dll
+/home/gordon/Desktop/Projects/dotnet/Login-Register-Module/Login-Register-Module/obj/Debug/net8.0/Login-Register-Module.csproj.GenerateResource.cache
